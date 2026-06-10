@@ -1,0 +1,19 @@
+{
+  "name": "premo-web",
+  "version": "1.0.0",
+  "description": "Professional web design and development company",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build required'"
+  },
+  "keywords": [
+    "web design",
+    "web development",
+    "responsive design",
+    "professional websites"
+  ],
+  "author": "famguardpro-cloud",
+  "license": "MIT",
+  "homepage": "https://famguardpro-cloud.github.io/premo-web"
+}
